@@ -1,0 +1,29 @@
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.driver_class">org.postgresql.Driver</property>
+        <property name="connection.url">jdbc:postgresql://192.168.65.110:5432/odoodb</property>
+        <!-- <property name="connection.url">jdbc:postgresql://192.168.65.110:5432/odoodb</property> --> 
+        <property name="connection.username">odoo</property>
+        <property name="connection.password">Talde1</property>
+
+        <!-- JDBC connection pool (use the build-in) -->
+        <property name="connection.pool_size">1</property>
+        <property name="cache.provider_class">org.hibernate.cache.HashtableCacheProvider</property>
+
+        <!-- thread is the short name for org.hibernate.context.ThreadLocalSessionContext -->
+        <property name="current_session_context_class">thread</property>
+
+        <!-- Set "true" to show SQL statements -->
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.hbm2ddl.auto">none</property>
+
+        <!-- mapping class using annotation -->
+        <mapping class="com.hib.entities.Client"></mapping>
+        <mapping class="com.hib.entities.Employee"></mapping>
+        <mapping class="com.hib.entities.User"></mapping>
+        <mapping class="com.hib.entities.Product"></mapping>
+
+    </session-factory>
+
+</hibernate-configuration>
+    

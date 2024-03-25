@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Employees>
+    <employees>
+        <id>1</id>
+        <name>Administrator</name>
+        <employee_type>employee</employee_type>
+    </employees>
+    <employees>
+        <id>3</id>
+        <name>Ekaitz Aranberri</name>
+        <job_title>Giza baliabide burua</job_title>
+        <employee_type>employee</employee_type>
+    </employees>
+    <employees>
+        <id>4</id>
+        <name>Mikel Cid</name>
+        <job_title>IT burua</job_title>
+        <employee_type>employee</employee_type>
+    </employees>
+    <employees>
+        <id>5</id>
+        <name>Julen Fernandez</name>
+        <job_title>F eta K burua</job_title>
+        <employee_type>employee</employee_type>
+    </employees>
+    <employees>
+        <id>6</id>
+        <name>Miren Errasti</name>
+        <job_title>Kalitate burua</job_title>
+        <employee_type>employee</employee_type>
+    </employees>
+    <employees>
+        <id>7</id>
+        <name>Ruben Idigoras</name>
+        <job_title>Salmenta burua</job_title>
+        <employee_type>employee</employee_type>
+    </employees>
+    <employees>
+        <id>8</id>
+        <name>Andoni Garcia</name>
+        <job_title>Erosketa burua</job_title>
+        <employee_type>employee</employee_type>
+    </employees>
+    <employees>
+        <id>9</id>
+        <name>Manolo Calvo</name>
+        <job_title>Produkzio burua</job_title>
+        <employee_type>employee</employee_type>
+    </employees>
+    <employees>
+        <id>10</id>
+        <name>Julen Peruano</name>
+        <job_title>Ekoizpen-Ingeniaritza burua</job_title>
+        <employee_type>employee</employee_type>
+    </employees>
+    <employees>
+        <id>11</id>
+        <name>Jenny Martin</name>
+        <job_title>Biltegi burua</job_title>
+        <employee_type>employee</employee_type>
+    </employees>
+    <employees>
+        <id>12</id>
+        <name>Juan Martin</name>
+        <job_title>Makina operarioa</job_title>
+        <employee_type>employee</employee_type>
+    </employees>
+    <employees>
+        <id>13</id>
+        <name>Lierni Rodriguez</name>
+        <job_title>Makina operarioa</job_title>
+        <employee_type>employee</employee_type>
+    </employees>
+    <employees>
+        <id>2</id>
+        <name>Ainara Arrue</name>
+        <job_title>Gerentea</job_title>
+        <employee_type>student</employee_type>
+    </employees>
+</Employees>

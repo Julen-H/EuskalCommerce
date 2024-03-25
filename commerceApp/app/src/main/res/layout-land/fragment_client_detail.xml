@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:expandableTextView="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ClientDetailFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/detailName"
+            android:layout_width="365dp"
+            android:layout_height="49dp"
+            android:layout_marginStart="14dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="14dp"
+            android:layout_marginBottom="15dp"
+            android:text="@string/detailClientName"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            expandableTextView:layout_constraintBottom_toTopOf="@+id/detailAddress"
+            expandableTextView:layout_constraintEnd_toEndOf="parent"
+            expandableTextView:layout_constraintStart_toStartOf="parent"
+            expandableTextView:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/detailAddress"
+            android:layout_width="365dp"
+            android:layout_height="49dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="7dp"
+            android:text="@string/detailClientAddress"
+            expandableTextView:layout_constraintBottom_toTopOf="@+id/detailPhone"
+            expandableTextView:layout_constraintEnd_toEndOf="parent"
+            expandableTextView:layout_constraintStart_toStartOf="parent"
+            expandableTextView:layout_constraintTop_toBottomOf="@+id/detailName" />
+
+        <TextView
+            android:id="@+id/detailPhone"
+            android:layout_width="365dp"
+            android:layout_height="49dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="8dp"
+            android:text="@string/detailClientPhone"
+            expandableTextView:layout_constraintBottom_toTopOf="@+id/detailEmail"
+            expandableTextView:layout_constraintEnd_toEndOf="parent"
+            expandableTextView:layout_constraintStart_toStartOf="parent"
+            expandableTextView:layout_constraintTop_toBottomOf="@+id/detailAddress" />
+
+        <TextView
+            android:id="@+id/detailEmail"
+            android:layout_width="365dp"
+            android:layout_height="49dp"
+            android:layout_marginStart="14dp"
+            android:layout_marginEnd="14dp"
+            android:text="@string/detailClientEmail"
+            expandableTextView:layout_constraintBottom_toTopOf="@+id/recyclerView"
+            expandableTextView:layout_constraintEnd_toEndOf="parent"
+            expandableTextView:layout_constraintStart_toStartOf="parent"
+            expandableTextView:layout_constraintTop_toBottomOf="@+id/detailPhone" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="581dp"
+            android:layout_height="178dp"
+            android:layout_marginStart="1dp"
+            android:layout_marginEnd="1dp"
+            android:layout_marginBottom="16dp"
+            expandableTextView:layout_constraintBottom_toBottomOf="parent"
+            expandableTextView:layout_constraintEnd_toEndOf="parent"
+            expandableTextView:layout_constraintHorizontal_bias="0.494"
+            expandableTextView:layout_constraintStart_toStartOf="parent"
+            expandableTextView:layout_constraintTop_toBottomOf="@+id/detailEmail" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

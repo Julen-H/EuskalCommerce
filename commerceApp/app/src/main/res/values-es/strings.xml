@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CommerceApp</string>
+    <string name="product">Producto</string>
+    <string name="client">Clientes</string>
+    <string name="settings">Ajustes</string>
+    <string name="load_data">Cargar datos</string>
+    <string name="loginStr">Inicio</string>
+    <string name="signupStr">Registrarse</string>
+    <string name="noAccount">¿No tienes una cuenta?</string>
+    <string name="passHint">Contraseña</string>
+    <string name="usernameHint">Nombre de usuario</string>
+    <string name="phoneHint">Número de teléfono</string>
+    <string name="emailHint">Email</string>
+    <string name="backButton">Volver</string>
+    <string name="saleDelayStr">"Plazo de entrega: "</string>
+    <string name="detailClientName">Nombre del cliente</string>
+    <string name="detailClientAddress">"Dirección: "</string>
+    <string name="detailClientPhone">"Teléfono: "</string>
+    <string name="detailClientEmail">Email:</string>
+    <string name="billId">"ID de factura: "</string>
+    <string name="billPaidStr">"Está pagado: "</string>
+    <string name="billSentStr">"Está enviado: "</string>
+    <string name="billPriceStr">Precio total</string>
+    <string name="billItemAmountStr">Item amount</string>
+    <string name="billDate">Fecha de pedido</string>
+    <string name="greenEmoji">🟢</string>
+    <string name="redEmoji">🔴</string>
+    <string name="yellowEmoji">🟡</string>
+    <string name="opennedBills">Este cliente tiene facturas sin pagar</string>
+    <string name="notOpennedBills">Este cliente ha pagado todas las facturas</string>
+    <string name="tapIndicator">Haz clic para entrar</string>
+    <string name="sentProducts">Todos los productos han sido enviados</string>
+    <string name="notSentProducts">Faltan productos por enviar</string>
+    <string name="addressNotFound">No se ha encontrado dirección</string>
+    <string name="phoneNotFound">No se han encontrado teléfonos</string>
+    <string name="emailNotFound">No se ha encontrado email</string>
+    <string name="IP">Direccion IP</string>
+    <string name="webserviceUsername">"Usuario del Servidor Web: "</string>
+    <string name="webservicePassword">"Contraseña del Servidor Web: "</string>
+    <string name="applySettings">Aplicar Configuracion</string>
+    <string name="showpassword">Mostrar Contraseña</string>
+</resources>

@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "name": "Administrator",
+        "job_title": "Null",
+        "work_phone": "Null",
+        "mobile_phone": "Null",
+        "employee_type": "employee",
+        "department": "Null"
+    },
+    {
+        "id": 3,
+        "name": "Ekaitz Aranberri",
+        "job_title": "Giza baliabide burua",
+        "work_phone": "Null",
+        "mobile_phone": "Null",
+        "employee_type": "employee",
+        "department": "Null"
+    },
+    {
+        "id": 4,
+        "name": "Mikel Cid",
+        "job_title": "IT burua",
+        "work_phone": "Null",
+        "mobile_phone": "Null",
+        "employee_type": "employee",
+        "department": "Null"
+    },
+    {
+        "id": 5,
+        "name": "Julen Fernandez",
+        "job_title": "F eta K burua",
+        "work_phone": "Null",
+        "mobile_phone": "Null",
+        "employee_type": "employee",
+        "department": "Null"
+    },
+    {
+        "id": 6,
+        "name": "Miren Errasti",
+        "job_title": "Kalitate burua",
+        "work_phone": "Null",
+        "mobile_phone": "Null",
+        "employee_type": "employee",
+        "department": "Null"
+    },
+    {
+        "id": 7,
+        "name": "Ruben Idigoras",
+        "job_title": "Salmenta burua",
+        "work_phone": "Null",
+        "mobile_phone": "Null",
+        "employee_type": "employee",
+        "department": "Null"
+    },
+    {
+        "id": 8,
+        "name": "Andoni Garcia",
+        "job_title": "Erosketa burua",
+        "work_phone": "Null",
+        "mobile_phone": "Null",
+        "employee_type": "employee",
+        "department": "Null"
+    },
+    {
+        "id": 9,
+        "name": "Manolo Calvo",
+        "job_title": "Produkzio burua",
+        "work_phone": "Null",
+        "mobile_phone": "Null",
+        "employee_type": "employee",
+        "department": "Null"
+    },
+    {
+        "id": 10,
+        "name": "Julen Peruano",
+        "job_title": "Ekoizpen-Ingeniaritza burua",
+        "work_phone": "Null",
+        "mobile_phone": "Null",
+        "employee_type": "employee",
+        "department": "Null"
+    },
+    {
+        "id": 11,
+        "name": "Jenny Martin",
+        "job_title": "Biltegi burua",
+        "work_phone": "Null",
+        "mobile_phone": "Null",
+        "employee_type": "employee",
+        "department": "Null"
+    },
+    {
+        "id": 12,
+        "name": "Juan Martin",
+        "job_title": "Makina operarioa",
+        "work_phone": "Null",
+        "mobile_phone": "Null",
+        "employee_type": "employee",
+        "department": "Null"
+    },
+    {
+        "id": 13,
+        "name": "Lierni Rodriguez",
+        "job_title": "Makina operarioa",
+        "work_phone": "Null",
+        "mobile_phone": "Null",
+        "employee_type": "employee",
+        "department": "Null"
+    },
+    {
+        "id": 2,
+        "name": "Ainara Arrue",
+        "job_title": "Gerentea",
+        "work_phone": "Null",
+        "mobile_phone": "Null",
+        "employee_type": "student",
+        "department": "Null"
+    }
+]

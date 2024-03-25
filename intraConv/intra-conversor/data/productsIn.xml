@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Product>
+    <product>
+        <id>78</id>
+        <product_name>{"en_US": "casa", "es_ES": "casa"}</product_name>
+        <product_price>30.0</product_price>
+    </product>
+    <product>
+        <id>79</id>
+        <product_name>{"en_US": "Vaso", "es_ES": "Vaso"}</product_name>
+        <product_price>60.0</product_price>
+    </product>
+</Product>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Employees>
+    <employee>
+        <id>1</id>
+        <resource_id>1</resource_id>
+        <company_id>1</company_id>
+        <name>Administrator</name>
+        <employee_type>employee</employee_type>
+    </employee>
+    <employee>
+        <id>3</id>
+        <resource_id>3</resource_id>
+        <company_id>1</company_id>
+        <name>Ekaitz Aranberri</name>
+        <job_title>Giza baliabide burua</job_title>
+        <employee_type>employee</employee_type>
+    </employee>
+    <employee>
+        <id>4</id>
+        <resource_id>4</resource_id>
+        <company_id>1</company_id>
+        <name>Mikel Cid</name>
+        <job_title>IT burua</job_title>
+        <employee_type>employee</employee_type>
+    </employee>
+    <employee>
+        <id>5</id>
+        <resource_id>5</resource_id>
+        <company_id>1</company_id>
+        <name>Julen Fernandez</name>
+        <job_title>F eta K burua</job_title>
+        <employee_type>employee</employee_type>
+    </employee>
+    <employee>
+        <id>6</id>
+        <resource_id>6</resource_id>
+        <company_id>1</company_id>
+        <name>Miren Errasti</name>
+        <job_title>Kalitate burua</job_title>
+        <employee_type>employee</employee_type>
+    </employee>
+    <employee>
+        <id>7</id>
+        <resource_id>7</resource_id>
+        <company_id>1</company_id>
+        <name>Ruben Idigoras</name>
+        <job_title>Salmenta burua</job_title>
+        <employee_type>employee</employee_type>
+    </employee>
+    <employee>
+        <id>8</id>
+        <resource_id>8</resource_id>
+        <company_id>1</company_id>
+        <name>Andoni Garcia</name>
+        <job_title>Erosketa burua</job_title>
+        <employee_type>employee</employee_type>
+    </employee>
+    <employee>
+        <id>9</id>
+        <resource_id>9</resource_id>
+        <company_id>1</company_id>
+        <name>Manolo Calvo</name>
+        <job_title>Produkzio burua</job_title>
+        <employee_type>employee</employee_type>
+    </employee>
+    <employee>
+        <id>10</id>
+        <resource_id>10</resource_id>
+        <company_id>1</company_id>
+        <name>Julen Peruano</name>
+        <job_title>Ekoizpen-Ingeniaritza burua</job_title>
+        <employee_type>employee</employee_type>
+    </employee>
+    <employee>
+        <id>11</id>
+        <resource_id>11</resource_id>
+        <company_id>1</company_id>
+        <name>Jenny Martin</name>
+        <job_title>Biltegi burua</job_title>
+        <employee_type>employee</employee_type>
+    </employee>
+    <employee>
+        <id>12</id>
+        <resource_id>12</resource_id>
+        <company_id>1</company_id>
+        <name>Juan Martin</name>
+        <job_title>Makina operarioa</job_title>
+        <employee_type>employee</employee_type>
+    </employee>
+    <employee>
+        <id>13</id>
+        <resource_id>13</resource_id>
+        <company_id>1</company_id>
+        <name>Lierni Rodriguez</name>
+        <job_title>Makina operarioa</job_title>
+        <employee_type>employee</employee_type>
+    </employee>
+    <employee>
+        <id>2</id>
+        <resource_id>2</resource_id>
+        <company_id>1</company_id>
+        <name>Ainara Arrue</name>
+        <job_title>Gerentea</job_title>
+        <employee_type>student</employee_type>
+    </employee>
+    <employee>
+        <id>89</id>
+        <resource_id>1</resource_id>
+        <company_id>1</company_id>
+        <name>Administrator</name>
+        <job_title>Null</job_title>
+        <work_phone>Null</work_phone>
+        <mobile_phone>Null</mobile_phone>
+        <employee_type>employee</employee_type>
+        <department>Null</department>
+    </employee>
+    <employee>
+        <id>90</id>
+        <resource_id>1</resource_id>
+        <company_id>1</company_id>
+        <name>Miren Errasti</name>
+        <job_title>Kalitate burua</job_title>
+        <work_phone>Null</work_phone>
+        <mobile_phone>Null</mobile_phone>
+        <employee_type>employee</employee_type>
+        <department>Null</department>
+    </employee>
+</Employees>

@@ -1,0 +1,224 @@
+[
+    {
+        "id": 7,
+        "name": "Administrator",
+        "phone": "Null",
+        "email": "admin@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Public user",
+        "phone": "Null",
+        "email": "Null"
+    },
+    {
+        "id": 2,
+        "name": "OdooBot",
+        "phone": "Null",
+        "email": "odoobot@example.com"
+    },
+    {
+        "id": 5,
+        "name": "Default User Template",
+        "phone": "Null",
+        "email": "Null"
+    },
+    {
+        "id": 20,
+        "name": "Juan Martin",
+        "phone": "Null",
+        "email": "juan.martin@yaves.com"
+    },
+    {
+        "id": 6,
+        "name": "Portal User Template",
+        "phone": "Null",
+        "email": "Null"
+    },
+    {
+        "id": 21,
+        "name": "Lierni Rodriguez",
+        "phone": "Null",
+        "email": "lierni.rodriguez@yaves.com"
+    },
+    {
+        "id": 1,
+        "name": "My Company",
+        "phone": "",
+        "email": "zelaia.unai@uni.eus"
+    },
+    {
+        "id": 8,
+        "name": "Welcome Bot",
+        "phone": "Null",
+        "email": "Null"
+    },
+    {
+        "id": 34,
+        "name": "LINCE Distribucion",
+        "phone": "Null",
+        "email": "Null"
+    },
+    {
+        "id": 9,
+        "name": "Lead Generation Bot",
+        "phone": "Null",
+        "email": "Null"
+    },
+    {
+        "id": 10,
+        "name": "Ainara Arrue",
+        "phone": "Null",
+        "email": "ainara.arrue@yaves.com"
+    },
+    {
+        "id": 11,
+        "name": "Ekaitz Aranberri",
+        "phone": "Null",
+        "email": "ekaitz.aranberri@yaves.com"
+    },
+    {
+        "id": 12,
+        "name": "Mikel Cid",
+        "phone": "Null",
+        "email": "mikel.cid@yaves.com"
+    },
+    {
+        "id": 13,
+        "name": "Julen Fernandez",
+        "phone": "Null",
+        "email": "julen.fernandez@yaves.com"
+    },
+    {
+        "id": 14,
+        "name": "Miren Errasti",
+        "phone": "Null",
+        "email": "miren.errasti@yaves.com"
+    },
+    {
+        "id": 15,
+        "name": "Ruben Idigoras",
+        "phone": "Null",
+        "email": "ruben.idigoras@yaves.com"
+    },
+    {
+        "id": 16,
+        "name": "Andoni Garcia",
+        "phone": "Null",
+        "email": "andoni.garcia@yaves.com"
+    },
+    {
+        "id": 17,
+        "name": "Manolo Calvo",
+        "phone": "Null",
+        "email": "manolo.calvo@yaves.com"
+    },
+    {
+        "id": 35,
+        "name": "Aceros IMS",
+        "phone": "Null",
+        "email": "Null"
+    },
+    {
+        "id": 18,
+        "name": "Julen Peruano",
+        "phone": "Null",
+        "email": "julen.peruano@yaves.com"
+    },
+    {
+        "id": 19,
+        "name": "Jenny Martin",
+        "phone": "Null",
+        "email": "jenny.burua@yaves.com"
+    },
+    {
+        "id": 36,
+        "name": "Telebistas paxi",
+        "phone": "946 236 458",
+        "email": "telebistasPatxi@patxi.tele"
+    },
+    {
+        "id": 37,
+        "name": "Smith farmaceuticas",
+        "phone": "Null",
+        "email": "Null"
+    },
+    {
+        "id": 3,
+        "name": "Administrator",
+        "phone": "Null",
+        "email": "zelaia.unai@uni.eus"
+    },
+    {
+        "id": 22,
+        "name": "Ainara Arrue",
+        "phone": "Null",
+        "email": "ainara.arrue@yaves.com"
+    },
+    {
+        "id": 24,
+        "name": "Mikel Cid",
+        "phone": "Null",
+        "email": "mikel.cid@yaves.com"
+    },
+    {
+        "id": 28,
+        "name": "Andoni Garcia",
+        "phone": "Null",
+        "email": "andoni.garcia@yaves.com"
+    },
+    {
+        "id": 23,
+        "name": "Ekaitz Aranberri",
+        "phone": "Null",
+        "email": "ekaitz.aranberri@yaves.com"
+    },
+    {
+        "id": 31,
+        "name": "Jenny Martin",
+        "phone": "Null",
+        "email": "jenny.martin@yaves.com"
+    },
+    {
+        "id": 32,
+        "name": "Juan Martin",
+        "phone": "Null",
+        "email": "juan.martin@yaves.com"
+    },
+    {
+        "id": 25,
+        "name": "Julen Fernandez",
+        "phone": "Null",
+        "email": "julen.fernandez@yaves.com"
+    },
+    {
+        "id": 30,
+        "name": "Julen Peruano",
+        "phone": "Null",
+        "email": "julen.peruano@yaves.com"
+    },
+    {
+        "id": 29,
+        "name": "Manolo Calvo",
+        "phone": "Null",
+        "email": "manolo.calvo@yaves.com"
+    },
+    {
+        "id": 26,
+        "name": "Miren Errasti",
+        "phone": "Null",
+        "email": "miren.errasti@yaves.com"
+    },
+    {
+        "id": 27,
+        "name": "Ruben Idigoras",
+        "phone": "Null",
+        "email": "ruben.idigoras@yaves.com"
+    },
+    {
+        "id": 33,
+        "name": "Lunch Supplier",
+        "phone": "Null",
+        "email": "Null"
+    }
+]

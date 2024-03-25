@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Clients>
+    <client>
+        <id>95</id>
+        <name>Huangzhou electronics</name>
+        <email>electronics@buy.com</email>
+    </client>
+    <client>
+        <id>96</id>
+        <name>John CHina</name>
+        <email>joh.china@china.china</email>
+    </client>
+</Clients>

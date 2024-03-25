@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Product>
+    <product>
+        <id>4</id>
+        <product_name>{"en_US": "Gifts", "es_ES": "Regalos"}</product_name>
+        <product_price>1.0</product_price>
+    </product>
+    <product>
+        <id>6</id>
+        <product_name>{"en_US": "Others", "es_ES": "Otros"}</product_name>
+        <product_price>1.0</product_price>
+    </product>
+    <product>
+        <id>1</id>
+        <product_name>{"en_US": "Meals"}</product_name>
+        <product_price>1.0</product_price>
+    </product>
+    <product>
+        <id>3</id>
+        <product_name>{"en_US": "Mileage", "es_ES": "Kilometraje"}</product_name>
+        <product_price>1.0</product_price>
+    </product>
+    <product>
+        <id>2</id>
+        <product_name>{"en_US": "Travel &amp; Accommodation"}</product_name>
+        <product_price>1.0</product_price>
+    </product>
+    <product>
+        <id>5</id>
+        <product_name>{"en_US": "Communication", "es_ES": "Comunicación"}</product_name>
+        <product_price>1.0</product_price>
+    </product>
+    <product>
+        <id>7</id>
+        <product_name>{"en_US": "Tips", "es_ES": "Propinas"}</product_name>
+        <product_price>1.0</product_price>
+    </product>
+    <product>
+        <id>8</id>
+        <product_name>{"en_US": "Discount", "es_ES": "Descuento"}</product_name>
+        <product_price>0.0</product_price>
+    </product>
+    <product>
+        <id>9</id>
+        <product_name>{"en_US": "Down Payment (POS)", "es_ES": "Pago adelantado (POS)"}</product_name>
+        <product_price>0.0</product_price>
+    </product>
+    <product>
+        <id>10</id>
+        <product_name>{"en_US": "Event Registration"}</product_name>
+        <product_price>30.0</product_price>
+    </product>
+    <product>
+        <id>12</id>
+        <product_name>{"en_US": "Lave dentada 5p seguridad", "es_ES": "Lave dentada 5p seguridad"}</product_name>
+        <product_price>0.0</product_price>
+    </product>
+    <product>
+        <id>13</id>
+        <product_name>{"en_US": "telebista", "es_ES": "telebista"}</product_name>
+        <product_price>0.0</product_price>
+    </product>
+    <product>
+        <id>11</id>
+        <product_name>{"en_US": "INOX[00011]1000X1500X10mm", "es_ES": "INOX[00011]1000X1500X10mm"}</product_name>
+        <product_price>0.0</product_price>
+    </product>
+    <product>
+        <id>15</id>
+        <product_name>{"en_US": "emedemedemedemedeme", "es_ES": "emedemedemedemedeme"}</product_name>
+        <product_price>0.0</product_price>
+    </product>
+    <product>
+        <id>14</id>
+        <product_name>{"en_US": "telebista", "es_ES": "telebista"}</product_name>
+        <product_price>0.0</product_price>
+    </product>
+    <product>
+        <id>16</id>
+        <product_name>{"en_US": "Telebista", "es_ES": "Telebista"}</product_name>
+        <product_price>10.0</product_price>
+    </product>
+    <product>
+        <id>17</id>
+        <product_name>{"en_US": "Monitor", "es_ES": "Monitor"}</product_name>
+        <product_price>15.0</product_price>
+    </product>
+    <product>
+        <id>20</id>
+        <product_name>{"en_US": "Mesa", "es_ES": "Mesa"}</product_name>
+        <product_price>456.76</product_price>
+    </product>
+    <product>
+        <id>21</id>
+        <product_name>{"en_US": "Prensa hidraulica", "es_ES": "Prensa_hidraulica"}</product_name>
+        <product_price>7457.54</product_price>
+    </product>
+</Product>

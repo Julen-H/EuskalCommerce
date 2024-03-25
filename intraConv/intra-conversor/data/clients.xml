@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Clients>
+    <client>
+        <id>7</id>
+        <name>Administrator</name>
+        <email>admin@example.com</email>
+    </client>
+    <client>
+        <id>4</id>
+        <name>Public user</name>
+    </client>
+    <client>
+        <id>2</id>
+        <name>OdooBot</name>
+        <email>odoobot@example.com</email>
+    </client>
+    <client>
+        <id>5</id>
+        <name>Default User Template</name>
+    </client>
+    <client>
+        <id>20</id>
+        <name>Juan Martin</name>
+        <email>juan.martin@yaves.com</email>
+    </client>
+    <client>
+        <id>6</id>
+        <name>Portal User Template</name>
+    </client>
+    <client>
+        <id>21</id>
+        <name>Lierni Rodriguez</name>
+        <email>lierni.rodriguez@yaves.com</email>
+    </client>
+    <client>
+        <id>1</id>
+        <name>My Company</name>
+        <phone></phone>
+        <email>zelaia.unai@uni.eus</email>
+    </client>
+    <client>
+        <id>8</id>
+        <name>Welcome Bot</name>
+    </client>
+    <client>
+        <id>34</id>
+        <name>LINCE Distribucion</name>
+    </client>
+    <client>
+        <id>9</id>
+        <name>Lead Generation Bot</name>
+    </client>
+    <client>
+        <id>10</id>
+        <name>Ainara Arrue</name>
+        <email>ainara.arrue@yaves.com</email>
+    </client>
+    <client>
+        <id>11</id>
+        <name>Ekaitz Aranberri</name>
+        <email>ekaitz.aranberri@yaves.com</email>
+    </client>
+    <client>
+        <id>12</id>
+        <name>Mikel Cid</name>
+        <email>mikel.cid@yaves.com</email>
+    </client>
+    <client>
+        <id>13</id>
+        <name>Julen Fernandez</name>
+        <email>julen.fernandez@yaves.com</email>
+    </client>
+    <client>
+        <id>14</id>
+        <name>Miren Errasti</name>
+        <email>miren.errasti@yaves.com</email>
+    </client>
+    <client>
+        <id>15</id>
+        <name>Ruben Idigoras</name>
+        <email>ruben.idigoras@yaves.com</email>
+    </client>
+    <client>
+        <id>16</id>
+        <name>Andoni Garcia</name>
+        <email>andoni.garcia@yaves.com</email>
+    </client>
+    <client>
+        <id>17</id>
+        <name>Manolo Calvo</name>
+        <email>manolo.calvo@yaves.com</email>
+    </client>
+    <client>
+        <id>35</id>
+        <name>Aceros IMS</name>
+    </client>
+    <client>
+        <id>18</id>
+        <name>Julen Peruano</name>
+        <email>julen.peruano@yaves.com</email>
+    </client>
+    <client>
+        <id>19</id>
+        <name>Jenny Martin</name>
+        <email>jenny.burua@yaves.com</email>
+    </client>
+    <client>
+        <id>36</id>
+        <name>Telebistas paxi</name>
+        <phone>946 236 458</phone>
+        <email>telebistasPatxi@patxi.tele</email>
+    </client>
+    <client>
+        <id>37</id>
+        <name>Smith farmaceuticas</name>
+    </client>
+    <client>
+        <id>53</id>
+        <name>Julen</name>
+        <phone>666845</phone>
+        <email>julen.herrero@uni.eus</email>
+    </client>
+    <client>
+        <id>54</id>
+        <name>Julen</name>
+        <phone>6984564121</phone>
+        <email>julen.galindo@uni.eus</email>
+    </client>
+    <client>
+        <id>95</id>
+        <name>Huangzhou electronics</name>
+        <email>electronics@buy.com</email>
+    </client>
+    <client>
+        <id>96</id>
+        <name>John CHina</name>
+        <email>joh.china@china.china</email>
+    </client>
+    <client>
+        <id>3</id>
+        <name>Administrator</name>
+        <email>zelaia.unai@uni.eus</email>
+    </client>
+    <client>
+        <id>22</id>
+        <name>Ainara Arrue</name>
+        <email>ainara.arrue@yaves.com</email>
+    </client>
+    <client>
+        <id>24</id>
+        <name>Mikel Cid</name>
+        <email>mikel.cid@yaves.com</email>
+    </client>
+    <client>
+        <id>28</id>
+        <name>Andoni Garcia</name>
+        <email>andoni.garcia@yaves.com</email>
+    </client>
+    <client>
+        <id>23</id>
+        <name>Ekaitz Aranberri</name>
+        <email>ekaitz.aranberri@yaves.com</email>
+    </client>
+    <client>
+        <id>31</id>
+        <name>Jenny Martin</name>
+        <email>jenny.martin@yaves.com</email>
+    </client>
+    <client>
+        <id>32</id>
+        <name>Juan Martin</name>
+        <email>juan.martin@yaves.com</email>
+    </client>
+    <client>
+        <id>25</id>
+        <name>Julen Fernandez</name>
+        <email>julen.fernandez@yaves.com</email>
+    </client>
+    <client>
+        <id>30</id>
+        <name>Julen Peruano</name>
+        <email>julen.peruano@yaves.com</email>
+    </client>
+    <client>
+        <id>29</id>
+        <name>Manolo Calvo</name>
+        <email>manolo.calvo@yaves.com</email>
+    </client>
+    <client>
+        <id>26</id>
+        <name>Miren Errasti</name>
+        <email>miren.errasti@yaves.com</email>
+    </client>
+    <client>
+        <id>27</id>
+        <name>Ruben Idigoras</name>
+        <email>ruben.idigoras@yaves.com</email>
+    </client>
+    <client>
+        <id>33</id>
+        <name>Lunch Supplier</name>
+    </client>
+</Clients>

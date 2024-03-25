@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CommerceApp</string>
+    <string name="product">Product</string>
+    <string name="client">Clients</string>
+    <string name="settings">Settings</string>
+    <string name="load_data">Load data</string>
+    <string name="loginStr">Login</string>
+    <string name="signupStr">Sign Up</string>
+    <string name="noAccount">Don\'t have an account?</string>
+    <string name="passHint">Password</string>
+    <string name="usernameHint">Username</string>
+    <string name="phoneHint">Phone number</string>
+    <string name="emailHint">Email</string>
+    <string name="backButton">Go back</string>
+    <string name="saleDelayStr">"Sale delay: "</string>
+    <string name="detailClientName">Name of client</string>
+    <string name="detailClientAddress">Address:</string>
+    <string name="detailClientPhone">Phone:</string>
+    <string name="detailClientEmail">Email:</string>
+    <string name="billId">Bill ID:</string>
+    <string name="billPaidStr">Is paid:</string>
+    <string name="billSentStr">"Is sent: "</string>
+    <string name="billPriceStr">Total price</string>
+    <string name="billItemAmountStr">Item amount</string>
+    <string name="billDate">Date of order</string>
+    <string name="greenEmoji">🟢</string>
+    <string name="redEmoji">🔴</string>
+    <string name="yellowEmoji">🟡</string>
+    <string name="opennedBills">This client has unpaid bills</string>
+    <string name="notOpennedBills">This client has paid all bills</string>
+    <string name="tapIndicator">Tap this to enter</string>
+    <string name="sentProducts">All products are sent</string>
+    <string name="notSentProducts">There are unsent products</string>
+    <string name="addressNotFound">Adress not found</string>
+    <string name="phoneNotFound">Phone not found</string>
+    <string name="emailNotFound">Email not found</string>
+    <string name="IP">IP_Adress</string>
+    <string name="webserviceUsername">"Webservice Username: "</string>
+    <string name="webservicePassword">Webservice Password:</string>
+    <string name="applySettings">Apply Settings</string>
+    <string name="showpassword">Show Password</string>
+</resources>

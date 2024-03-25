@@ -1,0 +1,87 @@
+[
+    {
+        "id": 4,
+        "name": "{\"en_US\": \"Gifts\", \"es_ES\": \"Regalos\"}",
+        "product_price": 1.0
+    },
+    {
+        "id": 6,
+        "name": "{\"en_US\": \"Others\", \"es_ES\": \"Otros\"}",
+        "product_price": 1.0
+    },
+    {
+        "id": 1,
+        "name": "{\"en_US\": \"Meals\"}",
+        "product_price": 1.0
+    },
+    {
+        "id": 3,
+        "name": "{\"en_US\": \"Mileage\", \"es_ES\": \"Kilometraje\"}",
+        "product_price": 1.0
+    },
+    {
+        "id": 2,
+        "name": "{\"en_US\": \"Travel & Accommodation\"}",
+        "product_price": 1.0
+    },
+    {
+        "id": 5,
+        "name": "{\"en_US\": \"Communication\", \"es_ES\": \"Comunicación\"}",
+        "product_price": 1.0
+    },
+    {
+        "id": 7,
+        "name": "{\"en_US\": \"Tips\", \"es_ES\": \"Propinas\"}",
+        "product_price": 1.0
+    },
+    {
+        "id": 8,
+        "name": "{\"en_US\": \"Discount\", \"es_ES\": \"Descuento\"}",
+        "product_price": 0.0
+    },
+    {
+        "id": 9,
+        "name": "{\"en_US\": \"Down Payment (POS)\", \"es_ES\": \"Pago adelantado (POS)\"}",
+        "product_price": 0.0
+    },
+    {
+        "id": 10,
+        "name": "{\"en_US\": \"Event Registration\"}",
+        "product_price": 30.0
+    },
+    {
+        "id": 12,
+        "name": "{\"en_US\": \"Lave dentada 5p seguridad\", \"es_ES\": \"Lave dentada 5p seguridad\"}",
+        "product_price": 0.0
+    },
+    {
+        "id": 13,
+        "name": "{\"en_US\": \"telebista\", \"es_ES\": \"telebista\"}",
+        "product_price": 0.0
+    },
+    {
+        "id": 11,
+        "name": "{\"en_US\": \"INOX[00011]1000X1500X10mm\", \"es_ES\": \"INOX[00011]1000X1500X10mm\"}",
+        "product_price": 0.0
+    },
+    {
+        "id": 15,
+        "name": "{\"en_US\": \"emedemedemedemedeme\", \"es_ES\": \"emedemedemedemedeme\"}",
+        "product_price": 0.0
+    },
+    {
+        "id": 14,
+        "name": "{\"en_US\": \"telebista\", \"es_ES\": \"telebista\"}",
+        "product_price": 0.0
+    },
+    {
+        "id": 16,
+        "name": "{\"en_US\": \"Telebista\", \"es_ES\": \"Telebista\"}",
+        "product_price": 10.0
+    },
+    {
+        "id": 17,
+        "name": "{\"en_US\": \"Monitor\", \"es_ES\": \"Monitor\"}",
+        "product_price": 15.0
+    }
+]

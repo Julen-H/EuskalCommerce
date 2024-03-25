@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Product>
+    <product>
+        <id>10</id>
+        <product_name>{"en_US": "Smartphone", "es_ES": "Smartphone"}</product_name>
+        <product_price>300.0</product_price>
+    </product>
+    <product>
+        <id>8</id>
+        <product_name>{"en_US": "Sobremesa", "es_ES": "Sobremesa"}</product_name>
+        <product_price>500.0</product_price>
+    </product>
+    <product>
+        <id>18</id>
+        <product_name>{"en_US": "Teclado", "es_ES": "Teclado"}</product_name>
+        <product_price>50.0</product_price>
+    </product>
+    <product>
+        <id>19</id>
+        <product_name>{"en_US": "Auriculares", "es_ES": "Auriculares"}</product_name>
+        <product_price>75.0</product_price>
+    </product>
+    <product>
+        <id>23</id>
+        <product_name>{"en_US": "Silla", "es_ES": "Silla"}</product_name>
+        <product_price>50.0</product_price>
+    </product>
+    <product>
+        <id>11</id>
+        <product_name>{"en_US": "CPU", "es_ES": "CPU"}</product_name>
+        <product_price>220.0</product_price>
+    </product>
+    <product>
+        <id>12</id>
+        <product_name>{"en_US": "GPU", "es_ES": "GPU"}</product_name>
+        <product_price>550.0</product_price>
+    </product>
+    <product>
+        <id>13</id>
+        <product_name>{"en_US": "RAM", "es_ES": "RAM"}</product_name>
+        <product_price>70.0</product_price>
+    </product>
+    <product>
+        <id>16</id>
+        <product_name>{"en_US": "Caja de ordenador", "es_ES": "Caja de ordenador"}</product_name>
+        <product_price>50.0</product_price>
+    </product>
+    <product>
+        <id>6</id>
+        <product_name>{"en_US": "Monitor", "es_ES": "Monitor"}</product_name>
+        <product_price>200.0</product_price>
+    </product>
+    <product>
+        <id>17</id>
+        <product_name>{"en_US": "Raton", "es_ES": "Raton"}</product_name>
+        <product_price>20.0</product_price>
+    </product>
+    <product>
+        <id>21</id>
+        <product_name>{"en_US": "Antivirus", "es_ES": "Antivirus"}</product_name>
+        <product_price>80.0</product_price>
+    </product>
+    <product>
+        <id>56</id>
+        <product_name>{"en_US": "Chocolate", "es_ES": "Chocolate"}</product_name>
+        <product_price>3.0</product_price>
+    </product>
+    <product>
+        <id>32</id>
+        <product_name>{"en_US": "Caballus", "es_ES": "Caballus"}</product_name>
+        <product_price>34.8</product_price>
+    </product>
+    <product>
+        <id>15</id>
+        <product_name>{"en_US": "HDD", "es_ES": "HDD"}</product_name>
+        <product_price>50.0</product_price>
+    </product>
+    <product>
+        <id>22</id>
+        <product_name>{"en_US": "MS Office", "es_ES": "MS Office"}</product_name>
+        <product_price>300.0</product_price>
+    </product>
+    <product>
+        <id>20</id>
+        <product_name>{"en_US": "Windows", "es_ES": "Windows"}</product_name>
+        <product_price>100.0</product_price>
+    </product>
+    <product>
+        <id>5</id>
+        <product_name>{"en_US": "Telebista", "es_ES": "Telebista"}</product_name>
+        <product_price>300.0</product_price>
+    </product>
+    <product>
+        <id>7</id>
+        <product_name>{"en_US": "Portatil", "es_ES": "Portatil"}</product_name>
+        <product_price>600.0</product_price>
+    </product>
+    <product>
+        <id>1</id>
+        <product_name>{"en_US": "TV", "es_ES": "TV"}</product_name>
+        <product_price>0.0</product_price>
+    </product>
+    <product>
+        <id>2</id>
+        <product_name>{"en_US": "Tips", "es_ES": "Propinas"}</product_name>
+        <product_price>1.0</product_price>
+    </product>
+    <product>
+        <id>3</id>
+        <product_name>{"en_US": "Discount", "es_ES": "Descuento"}</product_name>
+        <product_price>0.0</product_price>
+    </product>
+    <product>
+        <id>4</id>
+        <product_name>{"en_US": "Down Payment (POS)", "es_ES": "Pago adelantado (POS)"}</product_name>
+        <product_price>0.0</product_price>
+    </product>
+    <product>
+        <id>24</id>
+        <product_name>{"en_US": "Mesa", "es_ES": "Mesa"}</product_name>
+        <product_price>100.0</product_price>
+    </product>
+    <product>
+        <id>14</id>
+        <product_name>{"en_US": "MOBO", "es_ES": "MOBO"}</product_name>
+        <product_price>180.0</product_price>
+    </product>
+    <product>
+        <id>9</id>
+        <product_name>{"en_US": "Tablet", "es_ES": "Tablet"}</product_name>
+        <product_price>600.0</product_price>
+    </product>
+    <product>
+        <id>26</id>
+        <product_name>{"en_US": "Travel &amp; Accommodation", "es_ES": "Viaje y alojamiento"}</product_name>
+        <product_price>1.0</product_price>
+    </product>
+    <product>
+        <id>29</id>
+        <product_name>{"en_US": "Communication", "es_ES": "Comunicación"}</product_name>
+        <product_price>1.0</product_price>
+    </product>
+    <product>
+        <id>28</id>
+        <product_name>{"en_US": "Gifts", "es_ES": "Regalos"}</product_name>
+        <product_price>1.0</product_price>
+    </product>
+    <product>
+        <id>30</id>
+        <product_name>{"en_US": "Others", "es_ES": "Otros"}</product_name>
+        <product_price>1.0</product_price>
+    </product>
+    <product>
+        <id>25</id>
+        <product_name>{"en_US": "Meals", "es_ES": "Comidas"}</product_name>
+        <product_price>1.0</product_price>
+    </product>
+    <product>
+        <id>27</id>
+        <product_name>{"en_US": "Mileage", "es_ES": "Kilometraje"}</product_name>
+        <product_price>1.0</product_price>
+    </product>
+</Product>

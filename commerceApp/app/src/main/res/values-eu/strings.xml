@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CommerceApp</string>
+    <string name="product">Produktua</string>
+    <string name="client">Bezeroa</string>
+    <string name="settings">Konfigurazioa</string>
+    <string name="load_data">Datuak Kargatu</string>
+    <string name="loginStr">Sesioa Hasi</string>
+    <string name="signupStr">Erregistratu</string>
+    <string name="noAccount">Ez duzu konturik?</string>
+    <string name="passHint">Pasahitza</string>
+    <string name="usernameHint">Usuarioa</string>
+    <string name="phoneHint">Telefono Zenbakia</string>
+    <string name="emailHint">Email</string>
+    <string name="backButton">Atzera joan</string>
+    <string name="saleDelayStr">Entrega epea:</string>
+    <string name="detailClientName">Bezero izena:</string>
+    <string name="detailClientAddress">Helbidea:</string>
+    <string name="detailClientPhone">Telefonoa:</string>
+    <string name="detailClientEmail">Email:</string>
+    <string name="billId">Fakturaren ID-a:</string>
+    <string name="billPaidStr">"Ordaindua: "</string>
+    <string name="billSentStr">Bialduta:</string>
+    <string name="billPriceStr">Prezio totala</string>
+    <string name="billItemAmountStr">Kantitatea</string>
+    <string name="billDate">Eskaera data</string>
+    <string name="greenEmoji">🟢</string>
+    <string name="redEmoji">🔴</string>
+    <string name="yellowEmoji">🟡</string>
+    <string name="opennedBills">Bezero honek ordaindu gabeko fakturak ditu</string>
+    <string name="notOpennedBills">Bezero honek faktura denak ordaindu ditu</string>
+    <string name="tapIndicator">Klik egin sartzeko</string>
+    <string name="sentProducts">Produktu denak bialdu dira</string>
+    <string name="notSentProducts">Produktuak falta dira biatzeko</string>
+    <string name="addressNotFound">Helbidea ezin aurkitu</string>
+    <string name="phoneNotFound">Telefonoa ezin aurkitu</string>
+    <string name="emailNotFound">Emaila ezin aurkitu</string>
+    <string name="IP">IP_Helbidea</string>
+    <string name="webserviceUsername">Web Zerbitzariaren Erabiltzailea:</string>
+    <string name="webservicePassword">Web Zerbitzariaren Pasahitza:</string>
+    <string name="applySettings">Konfigurazioa Aplikatu</string>
+    <string name="showpassword">Pasahitza erakutsi</string>
+</resources>

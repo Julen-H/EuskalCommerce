@@ -1,0 +1,8 @@
+C:\Users\galindo.julen\Desktop\erronka-1-talde1\aginteKoadro\ChartEmployee\ChartEmployee\bin\Debug\ChartEmployee.dll
+C:\Users\galindo.julen\Desktop\erronka-1-talde1\aginteKoadro\ChartEmployee\ChartEmployee\bin\Debug\ChartEmployee.pdb
+C:\Users\galindo.julen\Desktop\erronka-1-talde1\aginteKoadro\ChartEmployee\ChartEmployee\obj\Debug\ChartEmployee.csproj.AssemblyReference.cache
+C:\Users\galindo.julen\Desktop\erronka-1-talde1\aginteKoadro\ChartEmployee\ChartEmployee\obj\Debug\ChartEmployee.UserControl1.resources
+C:\Users\galindo.julen\Desktop\erronka-1-talde1\aginteKoadro\ChartEmployee\ChartEmployee\obj\Debug\ChartEmployee.csproj.GenerateResource.cache
+C:\Users\galindo.julen\Desktop\erronka-1-talde1\aginteKoadro\ChartEmployee\ChartEmployee\obj\Debug\ChartEmployee.csproj.CoreCompileInputs.cache
+C:\Users\galindo.julen\Desktop\erronka-1-talde1\aginteKoadro\ChartEmployee\ChartEmployee\obj\Debug\ChartEmployee.dll
+C:\Users\galindo.julen\Desktop\erronka-1-talde1\aginteKoadro\ChartEmployee\ChartEmployee\obj\Debug\ChartEmployee.pdb

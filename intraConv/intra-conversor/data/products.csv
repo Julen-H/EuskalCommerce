@@ -1,0 +1,31 @@
+id;product_name;product_price
+10;{"en_US": "Smartphone", "es_ES": "Smartphone"};300.0
+8;{"en_US": "Sobremesa", "es_ES": "Sobremesa"};500.0
+18;{"en_US": "Teclado", "es_ES": "Teclado"};50.0
+19;{"en_US": "Auriculares", "es_ES": "Auriculares"};75.0
+23;{"en_US": "Silla", "es_ES": "Silla"};50.0
+11;{"en_US": "CPU", "es_ES": "CPU"};220.0
+12;{"en_US": "GPU", "es_ES": "GPU"};550.0
+13;{"en_US": "RAM", "es_ES": "RAM"};70.0
+16;{"en_US": "Caja de ordenador", "es_ES": "Caja de ordenador"};50.0
+6;{"en_US": "Monitor", "es_ES": "Monitor"};200.0
+17;{"en_US": "Raton", "es_ES": "Raton"};20.0
+21;{"en_US": "Antivirus", "es_ES": "Antivirus"};80.0
+15;{"en_US": "HDD", "es_ES": "HDD"};50.0
+22;{"en_US": "MS Office", "es_ES": "MS Office"};300.0
+20;{"en_US": "Windows", "es_ES": "Windows"};100.0
+5;{"en_US": "Telebista", "es_ES": "Telebista"};300.0
+7;{"en_US": "Portatil", "es_ES": "Portatil"};600.0
+1;{"en_US": "TV", "es_ES": "TV"};0.0
+2;{"en_US": "Tips", "es_ES": "Propinas"};1.0
+3;{"en_US": "Discount", "es_ES": "Descuento"};0.0
+4;{"en_US": "Down Payment (POS)", "es_ES": "Pago adelantado (POS)"};0.0
+24;{"en_US": "Mesa", "es_ES": "Mesa"};100.0
+14;{"en_US": "MOBO", "es_ES": "MOBO"};180.0
+9;{"en_US": "Tablet", "es_ES": "Tablet"};600.0
+26;{"en_US": "Travel & Accommodation", "es_ES": "Viaje y alojamiento"};1.0
+29;{"en_US": "Communication", "es_ES": "Comunicación"};1.0
+28;{"en_US": "Gifts", "es_ES": "Regalos"};1.0
+30;{"en_US": "Others", "es_ES": "Otros"};1.0
+25;{"en_US": "Meals", "es_ES": "Comidas"};1.0
+27;{"en_US": "Mileage", "es_ES": "Kilometraje"};1.0

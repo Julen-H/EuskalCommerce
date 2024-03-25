@@ -1,0 +1,12 @@
+[
+    {
+        "id": 56,
+        "name": "{\"en_US\": \"Chocolate\", \"es_ES\": \"Chocolate\"}",
+        "product_price": 3.0
+    },
+    {
+        "id": 32,
+        "name": "{\"en_US\": \"Caballus\", \"es_ES\": \"Caballus\"}",
+        "product_price": 34.8
+    }
+]

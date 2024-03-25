@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Users>
+    <user>
+        <id>785</id>
+        <userName>topo</userName>
+        <phone>666666</phone>
+        <email>putodefenderespaña@cayeborroka.com</email>
+        <login>putodefenderespaña@cayeborroka.com</login>
+        <notification_type>email</notification_type>
+        <company_id>1</company_id>
+        <create_uid>2</create_uid>
+        <last_lunch_location_id xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <next_rank_id>1</next_rank_id>
+        <partner_id>27</partner_id>
+        <write_uid>1</write_uid>
+    </user>
+    <user>
+        <id>905</id>
+        <userName>El fari</userName>
+        <phone>66666687</phone>
+        <email>elfari@comer.limones</email>
+        <login>elfari@comer.limones</login>
+        <notification_type>email</notification_type>
+        <company_id>1</company_id>
+        <create_uid>2</create_uid>
+        <last_lunch_location_id xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <next_rank_id>1</next_rank_id>
+        <partner_id>27</partner_id>
+        <write_uid>1</write_uid>
+    </user>
+</Users>

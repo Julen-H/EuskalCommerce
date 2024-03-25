@@ -1,0 +1,18 @@
+id;product_name;product_price
+4;{"en_US": "Gifts", "es_ES": "Regalos"};1.0
+6;{"en_US": "Others", "es_ES": "Otros"};1.0
+1;{"en_US": "Meals"};1.0
+3;{"en_US": "Mileage", "es_ES": "Kilometraje"};1.0
+2;{"en_US": "Travel & Accommodation"};1.0
+5;{"en_US": "Communication", "es_ES": "Comunicación"};1.0
+7;{"en_US": "Tips", "es_ES": "Propinas"};1.0
+8;{"en_US": "Discount", "es_ES": "Descuento"};0.0
+9;{"en_US": "Down Payment (POS)", "es_ES": "Pago adelantado (POS)"};0.0
+10;{"en_US": "Event Registration"};30.0
+12;{"en_US": "Lave dentada 5p seguridad", "es_ES": "Lave dentada 5p seguridad"};0.0
+13;{"en_US": "telebista", "es_ES": "telebista"};0.0
+11;{"en_US": "INOX[00011]1000X1500X10mm", "es_ES": "INOX[00011]1000X1500X10mm"};0.0
+15;{"en_US": "emedemedemedemedeme", "es_ES": "emedemedemedemedeme"};0.0
+14;{"en_US": "telebista", "es_ES": "telebista"};0.0
+16;{"en_US": "Telebista", "es_ES": "Telebista"};10.0
+17;{"en_US": "Monitor", "es_ES": "Monitor"};15.0

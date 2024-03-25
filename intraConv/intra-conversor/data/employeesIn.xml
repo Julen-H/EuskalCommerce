@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Employees>
+    <employee>
+        <id>109</id>
+        <resource_id>1</resource_id>
+        <company_id>1</company_id>
+        <name>unai</name>
+        <employee_type>employee</employee_type>
+    </employee>
+    <employee>
+        <id>108</id>
+        <resource_id>1</resource_id>
+        <company_id>1</company_id>
+        <name>julen</name>
+        <employee_type>employee</employee_type>
+    </employee>
+</Employees>

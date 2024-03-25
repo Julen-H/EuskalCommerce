@@ -1,0 +1,20 @@
+[
+    {
+        "id": 432,
+        "name": "Jueln Galindo",
+        "job_title": "interfaces",
+        "work_phone": "946 255 487",
+        "mobile_phone": "666 666 687",
+        "employee_type": "employee",
+        "department": "talde1"
+    },
+    {
+        "id": 433,
+        "name": "Julen Herrero",
+        "job_title": "Java champion",
+        "work_phone": "946 578 412",
+        "mobile_phone": "666 687 654",
+        "employee_type": "employee",
+        "department": "talde1"
+    }
+]

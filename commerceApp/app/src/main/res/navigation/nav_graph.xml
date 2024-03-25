@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginFragment">
+    <fragment
+        android:id="@+id/productsRecycler"
+        android:name="com.talde1.commerceapp.recyclers.ProductsRecycler"
+        android:label="fragment_products_recycler"
+        tools:layout="@layout/fragment_products_recycler" />
+    <fragment
+        android:id="@+id/clientsRecycler"
+        android:name="com.talde1.commerceapp.recyclers.ClientsRecycler"
+        android:label="fragment_clients_recycler"
+        tools:layout="@layout/fragment_clients_recycler" >
+        <action
+            android:id="@+id/action_clientsRecycler_to_clientDetailFragment"
+            app:destination="@id/clientDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mainMenuFragment"
+        android:name="com.talde1.commerceapp.MainMenuFragment"
+        android:label="fragment_main_menu"
+        tools:layout="@layout/fragment_main_menu" >
+        <action
+            android:id="@+id/action_mainMenuFragment_to_productsRecycler2"
+            app:destination="@id/productsRecycler" />
+        <action
+            android:id="@+id/action_mainMenuFragment_to_clientsRecycler2"
+            app:destination="@id/clientsRecycler" />
+        <action
+            android:id="@+id/action_mainMenuFragment_to_settingsRecycler2"
+            app:destination="@id/settingsFragment" />
+        <action
+            android:id="@+id/action_mainMenuFragment_to_login"
+            app:destination="@id/loginFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.talde1.commerceapp.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" >
+        <action
+            android:id="@+id/action_settingsFragment_to_menu"
+            app:destination="@id/mainMenuFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.talde1.commerceapp.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_loginFragment_to_mainMenuFragment"
+            app:destination="@id/mainMenuFragment" />
+        <action
+            android:id="@+id/action_loginFragment_to_singupFragment"
+            app:destination="@id/singupFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/singupFragment"
+        android:name="com.talde1.commerceapp.SignupFragment"
+        android:label="fragment_singup"
+        tools:layout="@layout/fragment_signup" >
+        <action
+            android:id="@+id/action_singupFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/clientDetailFragment"
+        android:name="com.talde1.commerceapp.ClientDetailFragment"
+        android:label="fragment_client_detail"
+        tools:layout="@layout/fragment_client_detail" />
+    <fragment
+        android:id="@+id/billViewholder"
+        android:name="com.talde1.commerceapp.BillViewholder"
+        android:label="fragment_bill_viewholder"
+        tools:layout="@layout/fragment_bill_viewholder" />
+</navigation>

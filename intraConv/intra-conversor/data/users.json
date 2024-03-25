@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "__system__"
+    },
+    {
+        "id": 352,
+        "username": "unai",
+        "phone": "666666",
+        "email": "unai@unai.unai",
+        "login": "ruben.idigoras@yaves.com"
+    },
+    {
+        "id": 4,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "public"
+    },
+    {
+        "id": 17,
+        "username": "unai",
+        "phone": "68989554",
+        "email": "unai@unai",
+        "login": "ruben.idigoras@yaves.com"
+    },
+    {
+        "id": 5,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "portaltemplate"
+    },
+    {
+        "id": 10,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "miren.errasti@yaves.com"
+    },
+    {
+        "id": 15,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "jenny.martin@yaves.com"
+    },
+    {
+        "id": 6,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "ainara.arrue@yaves.com"
+    },
+    {
+        "id": 11,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "ruben.idigoras@yaves.com"
+    },
+    {
+        "id": 7,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "ekaitz.aranberri@yaves.com"
+    },
+    {
+        "id": 16,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "juan.martin@yaves.com"
+    },
+    {
+        "id": 12,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "andoni.garcia@yaves.com"
+    },
+    {
+        "id": 8,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "mikel.cid@yaves.com"
+    },
+    {
+        "id": 13,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "manolo.calvo@yaves.com"
+    },
+    {
+        "id": 9,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "julen.fernandez@yaves.com"
+    },
+    {
+        "id": 14,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "julen.peruano@yaves.com"
+    },
+    {
+        "id": 3,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "default"
+    },
+    {
+        "id": 2,
+        "username": "Null",
+        "phone": "Null",
+        "email": "Null",
+        "login": "zelaia.unai@uni.eus"
+    }
+]

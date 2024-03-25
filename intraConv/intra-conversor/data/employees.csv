@@ -1,0 +1,25 @@
+id;employee_name;job_title;work_phone;mobile_phone;employee_type;department
+16;Julio Mora;Sales representative;Null;698 457 321;employee;Null
+14;Montserrat Gallardo;Administrator;Null;654 258 297;employee;Null
+27;Jordi Garcia;Systems administrator;Null;685 236 656;employee;Null
+19;Lidia Ortiz;Purchases representative;Null;685 459 258;employee;Null
+29;Lidia Serrano;Accountant;Null;638 457 124;employee;Null
+1;Administrator;Null;112;Null;employee;Null
+25;Cristina Romero;HR Employee;Null;689 785 258;employee;Null
+17;Rodrigo Ramirez;Sales representative;Null;685 457 214;employee;Null
+21;Amparo Calvo;Warehouse worker;Null;652 369 654;employee;Null
+22;Alberto Romero;Warehouse worker;Null;658 987 235;employee;Null
+7;Juan Antonio Arias;CEO;946 258 741;685 423 156;employee;Null
+23;Jose Miguel Rojas;Forklift Operator;Null;658 784 231;employee;Null
+9;Alejandro Saez;Graphic designer;645 213 584;Null;employee;Null
+10;Rosario Vega;Market analist;945 845 215;684 215 654;employee;Null
+15;Rosa Suarez;Sales lead;948 254 456;698 412 632;employee;Null
+11;Sebastian Nuñez;Admin lead;948 562 123;647 842 325;employee;Null
+26;Agustin Sanchez;IT Lead;956 825 798;639 285 471;employee;Null
+28;Felipe Hidalgo;A and F lead;946 826 316;657 324 148;employee;Null
+8;Felix Dominguez;Marketing lead;946 258 321;658 789 456;employee;Null
+18;Guillermo  Vidal;Purchases lead;948 789 632;685 459 528;employee;Null
+20;Jaime Suarez;Logistics lead;946 20 5698;659 875 214;employee;Null
+24;Lidia Fuentes;HR Lead;963 852 741;685 457 258;employee;Null
+12;César Vega;Administrator;Null;658 475 214;employee;Null
+13;Julia Carmona;Administrator;Null;658 429 987;employee;Null

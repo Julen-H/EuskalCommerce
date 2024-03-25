@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="122dp"
+    tools:context=".BillViewholder">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="122dp"
+        android:orientation="vertical"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp">
+
+        <TextView
+            android:id="@+id/billIdHolder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/billId" />
+
+        <TextView
+            android:id="@+id/billIsPaid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/billPaidStr" />
+
+        <TextView
+            android:id="@+id/billIsSent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/billSentStr" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/billPriceText"
+                    android:layout_width="match_parent"
+                    android:layout_height="33dp"
+                    android:paddingTop="10dp"
+                    android:text="@string/billPriceStr"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:id="@+id/billPrice"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textAlignment="center" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/billTotalAmount"
+                    android:layout_width="match_parent"
+                    android:layout_height="33dp"
+                    android:paddingTop="10dp"
+                    android:text="@string/billItemAmountStr"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:id="@+id/billItemAmount"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textAlignment="center" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/billDateStr"
+                    android:layout_width="match_parent"
+                    android:layout_height="33dp"
+                    android:paddingTop="10dp"
+                    android:text="@string/billDate"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:id="@+id/billDate"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textAlignment="center" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>
